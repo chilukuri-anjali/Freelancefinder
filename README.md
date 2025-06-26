@@ -1,5 +1,8 @@
 SB Works – Freelance Platform
 
+👉 To see the project output, click on this link:
+https://freelance-7n2hxxtit-anjalis-projects-8277c23a.vercel.app
+
 SB Works is a full-stack freelance platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables clients to post projects and freelancers to apply, chat, and collaborate within the platform.
 
   Technologies Used
