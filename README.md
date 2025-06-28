@@ -2,7 +2,7 @@ FreelanceFinder is a full-stack web application that connects freelancers with c
 
 ## 🌐 Live Demo
 
-- 🚀 **Frontend**: [https://freelance-ehlwmfmg9-anjalis-projects-8277c23a.vercel.app](https://freelance-ehlwmfmg9-anjalis-projects-8277c23a.vercel.app)
+- 🚀 **Frontend**: [https://freelance-ehlwmfmg9-anjalis-projects-8277c23a.vercel.app](https://freelance-rust.vercel.app/)
 - ⚙️ **Backend**: [https://freelancefinder-1.onrender.com](https://freelancefinder-1.onrender.com)
 
 
