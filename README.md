@@ -1,9 +1,9 @@
 FreelanceFinder is a full-stack web application that connects freelancers with clients. The platform allows users to post projects, hire freelancers, and manage tasks efficiently.
 
 ## 🌐 Live Demo
+🚀 Frontend (React, Netlify): https://freelance-public.netlify.app
+⚙️ Backend (Node.js, Express, MongoDB – Render): https://freelancefinder-1.onrender.com
 
-- 🚀 **Frontend**: [https://freelance-public.netlify.app]( https://freelance-public.netlify.app)
-- ⚙️ **Backend**: [https://freelancefinder-1.onrender.com](https://freelancefinder-1.onrender.com)
 
 
 SB Works is a full-stack freelance platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables clients to post projects and freelancers to apply, chat, and collaborate within the platform.
