@@ -1,0 +1,4 @@
+{
+  "probes": [{ "path": "/" }],
+  "public": true
+}
