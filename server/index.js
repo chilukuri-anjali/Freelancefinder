@@ -25,14 +25,17 @@ app.use('/api/chats', chatRoutes);
 const freelancerRoutes = require('./routes/freelancerRoutes');
 app.use('/api/freelancers', freelancerRoutes);
 
+// ✅ Test Route (this is what shows output)
+app.get('/', (req, res) => {
+  res.send('🎉 Backend is working and connected to MongoDB!');
+});
 
 // ✅ MongoDB Connection
 mongoose.connect(process.env.MONGO_URI)
-  .then(() => console.log('MongoDB Connected'))
+  .then(() => console.log('Connected to MongoDB'))
   .catch(err => console.error('MongoDB Error:', err));
 
 // ✅ Start Server
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
-
