@@ -2,6 +2,7 @@ FreelanceFinder is a full-stack web application that connects freelancers with c
 
 ## 🌐 Live Demo
 🚀 Frontend (React, Netlify): https://freelance-public.netlify.app
+
 ⚙️ Backend (Node.js, Express, MongoDB – Render): https://freelancefinder-1.onrender.com
 
 
