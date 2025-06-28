@@ -1,7 +1,10 @@
-SB Works – Freelance Platform
+FreelanceFinder is a full-stack web application that connects freelancers with clients. The platform allows users to post projects, hire freelancers, and manage tasks efficiently.
 
-👉 To see the project output, click on this link:
-https://freelance-7n2hxxtit-anjalis-projects-8277c23a.vercel.app
+## 🌐 Live Demo
+
+- 🚀 **Frontend**: [https://freelance-ehlwmfmg9-anjalis-projects-8277c23a.vercel.app](https://freelance-ehlwmfmg9-anjalis-projects-8277c23a.vercel.app)
+- ⚙️ **Backend**: [https://freelancefinder-1.onrender.com](https://freelancefinder-1.onrender.com)
+
 
 SB Works is a full-stack freelance platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables clients to post projects and freelancers to apply, chat, and collaborate within the platform.
 
